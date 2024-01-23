@@ -1,3 +1,8 @@
+
+[![Banner](https://en.idei.club/uploads/posts/2023-03/1679504229_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-2.jpg)](https://en.idei.club/uploads/posts/2023-03/1679504229_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-2.jpg)
+
+¡Asegúrate de reemplazar el enlace de la imagen (`https://en.idei.club/uploads/posts/2023-03/1679504229_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-2.jpg`) con la URL correcta de la imagen que deseas utilizar como banner en tu README!
+
 <h1 align="center">Hola 👋, Soy Anthony Yauri</h1>
 <h3 align="center">Fullstack-Developer</h3>
 
