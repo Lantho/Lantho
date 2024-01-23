@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP" alt="Header" class="image" style="width: 100%; height: 200px; object-fit: cover;">
+![Header](https://smartbuyers.pl/wp-content/uploads/2021/01/programista-php.jpg "Header")
 
 # Hello 👋, I'm Anthony Yauri
 ## Full Stack Developer
