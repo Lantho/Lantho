@@ -1,4 +1,4 @@
-![Header](https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP "Header")
+<img src="https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP" alt="Header" width="500" height="300">
 
 # Hello 👋, I'm Anthony Yauri
 ## Full Stack Developer
