@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP" alt="Header" width="100%" height="200">
+<img src="https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP" alt="Header" class="imagen" style="width: 100%; height: 200px; object-fit: cover;">
 
 # Hello 👋, I'm Anthony Yauri
 ## Full Stack Developer
