@@ -1,5 +1,4 @@
-
- <header> <a href="https://en.idei.club/uploads/posts/2023-03/1679504229_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-2.jpg"> <img src="https://en.idei.club/uploads/posts/2023-03/1679504229_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-2.jpg" alt="Banner"> </a> </header>
+![Header](https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP "Header")
 
 <h1 align="center">Hola 👋, Soy Anthony Yauri</h1>
 <h3 align="center">Fullstack-Developer</h3>
