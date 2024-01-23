@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP" alt="Header" width="100%" height="300">
+<img src="https://miro.medium.com/v2/resize:fit:1200/0*drrGcYjmUUoT4QkP" alt="Header" width="100%" height="200">
 
 # Hello 👋, I'm Anthony Yauri
 ## Full Stack Developer
